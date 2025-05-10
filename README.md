@@ -46,4 +46,3 @@ To develop a robust and scalable automated testing framework for the Health Hub 
 
 ## Mind Map
 
-![image](https://github.com/user-attachments/assets/a7784af9-ce2e-4d7a-983b-42de388bf9f9)
