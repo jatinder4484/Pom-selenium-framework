@@ -1,7 +1,18 @@
-# Second-Build-Week-Project
 # E-commerce Website Test Automation  
-**Project:** CLIQ FASHION E-commerce Website Testing  
-**Technology Stack:** Selenium, TestNG, Page Object Model (POM), Extent Reports  
+## Project: CLIQ FASHION E-commerce Website Testing  
+
+---
+## 🛠️ Technology Stack
+
+- **Automation Tool:** Selenium WebDriver  
+- **Testing Framework:** TestNG  
+- **Design Pattern:** Page Object Model (POM)  
+- **Reporting Tool:** Extent Reports  
+- **Programming Language:** Java  
+- **Build Tool:** Maven  
+- **Browser Automation:** ChromeDriver   
+
+---
 
 ## Objective
 
